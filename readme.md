@@ -24,7 +24,7 @@ Its consistent superiority across diverse DDs, spanning Distribution and Gradien
 Matching, establishes it as a versatile FDD approach.
 
 ### Overview of FairDD
-<p align="center"><img src='docs/method.png' width=700></p>
+<p align="center"><img src='assets/overview.png' width=700></p>
 <center>Figure 1: The overview of FairDD. FairDD first groups target signals of $\mathcal{T}$ and then proposes to align $\mathcal{S}$ (random initialization) with respective group centers. With this synchronized matching, $\mathcal{S}$ is simultaneously pulled by all group centers in a batch. This prevents the condensed dataset $\mathcal{S}$ from being biased towards the majority group, allowing it to better cover the distribution of $\mathcal{T}$. </center><br>
 
 ### Setup
